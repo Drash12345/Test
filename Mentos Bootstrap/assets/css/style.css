@@ -1,0 +1,595 @@
+body {
+    font-family: Poppins;
+}
+
+
+.firstheader {
+    width: 100%;
+    background-color: #27355a;
+    display: inline-block;
+}
+
+.free-consul {
+    background-color: #93cb3f;
+    font-size: 13px;
+    font-weight: 800;
+    float: left;
+    padding: 13px 10px;
+}
+
+.social-div {
+    float: left;
+    margin: 10px auto;
+}
+
+.social-image {
+    width: 23px;
+    float: left;
+    margin: 0 10px;
+}
+
+.conten-div {
+    float: right;
+}
+
+.text-color {
+    margin: 15px 0;
+    color: black;
+}
+
+
+.bg {
+    margin: 15px 0;
+    height: 50px;
+    background-color: #93cb3f;
+    float: right;
+}
+
+.bg:hover {
+    background-color: #93cb3f;
+}
+
+.backgroundgre {
+    padding: 300px;
+    width: 100%;
+    background-image: linear-gradient(#162636ec, #162636ec), url("../img/slid.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+.dotone {
+    width: 15px;
+    height: 15px;
+    border: solid 2px white;
+    border-radius: 30px;
+    background-color: black;
+}
+
+.dottwo {
+    width: 15px;
+    height: 15px;
+    border: solid 2px white;
+    border-radius: 30px;
+    margin-left: 15px;
+}
+
+.headtext {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 3rem !important;
+}
+
+.view {
+    margin-right: auto !important;
+    margin-left: auto !important;
+    width: 40px;
+    height: 3px;
+    background-color: #93cb3f;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cardedit {
+    border: 0;
+}
+
+
+.faq-div {
+    margin: 10px 0;
+    width: 100%;
+    border: solid 1px #dddddd;
+}
+
+.faq-grey {
+    color: #777777;
+    padding: 0 35px;
+}
+
+.gray-impo {
+    color: #777777;
+}
+
+.font-black {
+    padding-bottom: 25px;
+    font-size: 20px;
+    color: black;
+}
+
+.Name {
+    padding: .650rem .90rem;
+}
+
+.submitrad {
+    background-color: #93cb3f;
+    border-radius: 5px;
+    border: none;
+}
+
+.submitrad:hover {
+    background-color: #93cb3f;
+}
+
+.faqq-img {
+    margin: 15px;
+    width: 15px;
+    height: 15px;
+}
+
+.faq-text {
+    font-size: 16px;
+    margin: 13px;
+}
+
+.otherimage {
+    position: absolute;
+    background-color: #93cb3f;
+    border-radius: 5px 5px 0 0;
+    padding: 10px;
+    margin: 0 10px 10px 0;
+    right: 0;
+    bottom: 0;
+}
+
+.otherimage:hover {
+    background-color: #93cb3f;
+}
+
+.card-body {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-text-header {
+    margin: 0 10px;
+    color: #27355a;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card-text {
+    margin: 10px 10px;
+    color: gray;
+    font-size: 14px;
+}
+
+.card-text-foot {
+    margin: 0 10px;
+    color: #27355a;
+    font-size: 15px;
+}
+
+.image-professional {
+    width: 40%;
+}
+
+.image-professional-conent {
+    width: 50%;
+}
+
+.text-size {
+    font-size: 25px;
+}
+
+.text-margin {
+    margin: 0;
+    line-height: 2;
+}
+
+.item-margin {
+    margin: 20px 0;
+}
+
+.Certifiedim {
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #93cb3f;
+}
+
+.Certifiedim:hover {
+    background-color: white;
+    border: 1px solid #93cb3f;
+}
+
+.tollfree-width {
+    font-size: 30px;
+    color: gray;
+    font-weight: bold;
+}
+
+.tollfree-width-left {
+    padding-left: 100px;
+}
+
+.mentos-txt-size {
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.btncall {
+    width: 45px;
+    height: 45px;
+    background-color: #93cb3f;
+    padding: 5px;
+    bottom: 20%;
+    left: 5%;
+    border-radius: 5px;
+}
+
+.btncall:hover {
+    background-color: #93cb3f;
+}
+
+.our-text {
+    font-weight: bold;
+}
+
+.our-text span {
+    margin-left: 10px;
+    color: #93cb3f;
+    font-weight: bold;
+}
+
+.buisness-padding {
+    padding-top: 25px;
+}
+
+.buisness-border {
+    width: 30%;
+    margin: 25px 22px;
+    position: relative;
+    border: rgb(195, 195, 195) 1px solid;
+}
+
+.buisnessanalytics {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    background-color: #93cb3f;
+    padding: 15px;
+    z-index: 3;
+    bottom: 20%;
+    left: 5%;
+    border-radius: 0;
+}
+
+.buisnessanalytics:hover {
+    background-color: #93cb3f;
+}
+
+.buisnessanatxt {
+    font-size: 15px;
+    color: gray;
+    font-weight: bold;
+}
+
+.buisness-text {
+    margin: 0;
+    padding: 0 0 10px 0;
+}
+
+.card-text-margin {
+    margin: 13px 0;
+}
+
+.card-detail-margin {
+    margin: 0;
+}
+
+.moreservice {
+    background-color: #93cb3f;
+    border-radius: 0;
+    border-color: #93cb3f;
+}
+
+.moreservice:hover {
+    background-color: #93cb3f;
+    border-color: #93cb3f;
+}
+
+.shape-divmain {
+    overflow: hidden;
+    height: 280px;
+}
+
+.shape-div {
+    padding: 50px 50px;
+    width: 80%;
+    background-color: #0a1828;
+    height: 250px;
+}
+
+.product-device-2 {
+    height: 200px;
+    transform: rotate(50deg);
+    margin: -200px;
+    z-index: 1;
+    width: 300px;
+    background-color: #0a1828;
+    position: absolute;
+    content: '';
+    right: 0;
+    bottom: 0;
+}
+
+.image-professional-div {
+    width: 60%;
+}
+
+.font-style {
+    color: white;
+    font-size: 25px;
+    z-index: 3;
+    position: absolute;
+}
+
+.container-center {
+    max-width: 1320px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.carousel-size {
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 1.5;
+    bottom: 1.25rem;
+    padding-bottom: 1.25px;
+    color: #fff;
+    text-align: center;
+}
+
+.six-div-img {
+    display: inline-block;
+    width: 18%;
+    background-color: #212d3c;
+    border: 1px solid #55585b;
+    margin: 5px 5px;
+}
+
+.logo-div {
+    width: 100%;
+}
+
+.mentos-bg-top {
+    padding-bottom: 0rem !important;
+}
+
+.consultant-bg {
+    padding: 100px;
+    background-image: linear-gradient(#0d1823ec, #0d1823ec), url("../img/slid2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.strong-num {
+    color: #93cb3f;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.chart-text-heder {
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.chart-text {
+    color: gray;
+    font-size: 17px;
+}
+
+.calan {
+    width: 15px;
+    margin-left: 10px;
+}
+
+.dateone {
+    color: gray;
+    margin-left: 10px;
+}
+
+.metos-width {
+    width: 25%;
+}
+
+.mentos-deatil {
+    margin-right: 10px;
+    color: white;
+}
+
+.container ul {
+    color: white;
+}
+
+.tag-list {
+    background-color: #27355a;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    font-size: 13px;
+    display: inline-block;
+    color: white;
+}
+
+.subscribe {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 3px;
+    background-color: #93cb3f;
+    color: white;
+}
+
+.subscribe:hover {
+    background-color: #93cb3f;
+    color: white;
+}
+
+input[type="input-txt"] {
+    margin: 5px 0;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid gray;
+    outline: none;
+    background-color: #0000;
+}
+
+.footer-bg {
+    padding: 30px;
+    background-color: #27355a;
+}
+
+@media only screen and (max-width: 1024px) {
+    .image-professional {
+        width: 50%;
+    }
+
+    .text-margin {
+        line-height: 1.5;
+    }
+
+    .item-margin {
+        margin: 10px 0;
+    }
+
+    .buisness-border {
+        margin: 25px 16px;
+    }
+
+    .tollfree-width-left {
+        padding: 0;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .bg {
+        padding: 0px 10px;
+        margin-left: 10px;
+    }
+
+    .navbar {
+        display: inline;
+    }
+
+    .image-professional {
+        width: 100%;
+    }
+
+    .image-professional-conent {
+        width: 100%;
+    }
+
+    .buisness-border {
+        margin: 28px 12px;
+    }
+
+    .six-div-img {
+        width: 30%;
+    }
+
+    .card-body {
+        margin-bottom: 30px;
+    }
+
+    .col-6 {
+        width: 100%;
+    }
+
+    .metos-width {
+        margin: 15px 0;
+        width: 50%;
+    }
+
+    .text-color {
+        color: white;
+    }
+
+    .nav {
+        display: inline;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+
+    .bg {
+        padding: 0px 10px;
+        margin-left: 10px;
+    }
+
+    .conten-div {
+        float: left;
+    }
+
+    .g-5 {
+        --bs-gutter-x: 0rem;
+    }
+
+    .buisness-border {
+        width: 94%;
+    }
+
+    .six-div-img {
+        width: 90%;
+    }
+
+    .consultant-bg {
+        padding: 30px;
+    }
+
+    .metos-width {
+        margin: 10px;
+        width: 100%;
+    }
+
+    @media only screen and (max-width: 375px) {
+        .metos-width {
+            width: 95%;
+        }
+
+        .mentos-deatil {
+            margin-right: 0px;
+        }
+
+        .consultant-bg {
+            padding: 5px;
+        }
+    }
+
+    @media only screen and (max-width: 320px) {
+        .social-div {
+            float: none;
+        }
+
+        .social-image {
+            margin: 13px 5px;
+        }
+
+        .buisness-border {
+            width: 92%;
+        }
+    }
+}
